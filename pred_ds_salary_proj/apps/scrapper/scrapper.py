@@ -1,4 +1,5 @@
-from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
+from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException, \
+    StaleElementReferenceException
 from selenium import webdriver
 import time
 import pandas as pd
@@ -38,12 +39,16 @@ class GlassDoorScrapper:
                 self.driver.find_element_by_class_name("selected").click()
             except ElementClickInterceptedException:
                 pass
+            except StaleElementReferenceException:
+                pass
 
             time.sleep(.1)
 
             try:
                 self.driver.find_element_by_xpath('//*[@class="SVGInline modal_closeIcon"]').click()
             except NoSuchElementException:
+                pass
+            except StaleElementReferenceException:
                 pass
 
             # Going through each job in this page
@@ -58,8 +63,13 @@ class GlassDoorScrapper:
 
                 try:
                     job_button.click()  # You might
+                    print('job_button.click()  # You might')
                 except Exception as e:
                     print(e)
+                    pass
+                except StaleElementReferenceException:
+                    pass
+
                 time.sleep(1)
                 collected_successfully = False
 
@@ -71,18 +81,28 @@ class GlassDoorScrapper:
                         job_title = self.driver.find_element_by_xpath(xpath+'[2]').text
                         job_description = self.driver.find_element_by_xpath('*//div[@class="jobDescriptionContent desc"]').text
                         collected_successfully = True
+                        print('84')
+                    except StaleElementReferenceException:
+                        pass
                     except:
                         time.sleep(5)
 
                 try:
                     salary_estimate = self.driver.find_element_by_xpath(xpath+'[4]/span').text
+                    print('92')
                 except NoSuchElementException:
                     salary_estimate = -1  # You need to set a "not found value. It's important."
+                except StaleElementReferenceException:
+                    pass
+
 
                 try:
                     rating = self.driver.find_element_by_xpath(xpath+'[1]/span').text
+                    print('101')
                 except NoSuchElementException:
                     rating = -1  # You need to set a "not found value. It's important."
+                except StaleElementReferenceException:
+                    pass
 
                 # Printing for debugging
                 if verbose:
@@ -98,6 +118,7 @@ class GlassDoorScrapper:
                 # <div class="tab" data-tab-type="overview"><span>Company</span></div>
                 try:
                     self.driver.find_element_by_xpath('*//div[@class="tab" and @data-tab-type="overview"]').click()
+                    print('121')
 
                     try:
                         # <div class="infoEntity">
@@ -105,47 +126,72 @@ class GlassDoorScrapper:
                         #    <span class="value">San Francisco, CA</span>
                         # </div>
                         headquarters = self.driver.find_element_by_xpath('*//div[@class="infoEntity"]//label[text()="Headquarters"]//following-sibling::*').text
+                        print('129')
                     except NoSuchElementException:
+                        headquarters = -1
+                    except StaleElementReferenceException:
                         headquarters = -1
 
                     try:
                         size = self.driver.find_element_by_xpath('*//div[@class="infoEntity"]//label[text()="Size"]//following-sibling::*').text
+                        print('137')
                     except NoSuchElementException:
                         size = -1
+                    except StaleElementReferenceException:
+                        size = -1
+
 
                     try:
                         founded = self.driver.find_element_by_xpath('*//div[@class="infoEntity"]//label[text()="Founded"]//following-sibling::*').text
+                        print('146')
                     except NoSuchElementException:
+                        founded = -1
+                    except StaleElementReferenceException:
                         founded = -1
 
                     try:
                         type_of_ownership = self.driver.find_element_by_xpath(
-                            './/div[@class="infoEntity"]//label[text()="Type"]//following-sibling::*').text
+                            '//div[@class="infoEntity"]//label[text()="Type"]//following-sibling::*').text
+                        print('155')
                     except NoSuchElementException:
+                        type_of_ownership = -1
+                    except StaleElementReferenceException:
                         type_of_ownership = -1
 
                     try:
                         industry = self.driver.find_element_by_xpath(
-                            './/div[@class="infoEntity"]//label[text()="Industry"]//following-sibling::*').text
+                            '//div[@class="infoEntity"]//label[text()="Industry"]//following-sibling::*').text
+                        print('164')
                     except NoSuchElementException:
+                        industry = -1
+                    except StaleElementReferenceException:
                         industry = -1
 
                     try:
                         sector = self.driver.find_element_by_xpath(
-                            './/div[@class="infoEntity"]//label[text()="Sector"]//following-sibling::*').text
+                            '//div[@class="infoEntity"]//label[text()="Sector"]//following-sibling::*').text
+                        print('173')
                     except NoSuchElementException:
+                        sector = -1
+                    except StaleElementReferenceException:
                         sector = -1
 
                     try:
                         revenue = self.driver.find_element_by_xpath(
-                            './/div[@class="infoEntity"]//label[text()="Revenue"]//following-sibling::*').text
+                            '//div[@class="infoEntity"]//label[text()="Revenue"]//following-sibling::*').text
+                        print('182')
                     except NoSuchElementException:
+                        revenue = -1
+                    except StaleElementReferenceException:
                         revenue = -1
 
                     try:
                         competitors = self.driver.find_element_by_xpath(
-                            './/div[@class="infoEntity"]//label[text()="Competitors"]//following-sibling::*').text
+                            '//div[@class="infoEntity"]//label[text()="Competitors"]//following-sibling::*').text
+                        print('191')
                     except NoSuchElementException:
+                        competitors = -1
+                    except StaleElementReferenceException:
                         competitors = -1
 
                 except NoSuchElementException:  # Rarely, some job postings do not have the "Company" tab.
@@ -157,6 +203,18 @@ class GlassDoorScrapper:
                     sector = -1
                     revenue = -1
                     competitors = -1
+                except StaleElementReferenceException:
+                    headquarters = -1
+                    size = -1
+                    founded = -1
+                    type_of_ownership = -1
+                    industry = -1
+                    sector = -1
+                    revenue = -1
+                    competitors = -1
+
+                except Exception:
+                    pass
 
                 if verbose:
                     print("Headquarters: {}".format(headquarters))
@@ -185,12 +243,16 @@ class GlassDoorScrapper:
                              "Competitors": competitors})
                 # add job to jobs
 
+
             # Clicking on the "next page" button
             try:
-                self.driver.find_element_by_xpath('.//li[@class="next"]//a').click()
+                self.driver.find_element_by_xpath('//li[@class="next"]//a').click()
+                print('250')
             except NoSuchElementException:
                 print("Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(num_jobs,
                                                                                                              len(jobs)))
+                break
+            except StaleElementReferenceException:
                 break
 
         return pd.DataFrame(jobs)  # This line converts the dictionary object into a pandas DataFrame.

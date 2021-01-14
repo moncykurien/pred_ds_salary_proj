@@ -12,7 +12,7 @@ class ScrapeLoadValidate:
     def get_data_glassdoor(self, job_title = 'data scientist'):
         print('In scrapLoadValidate')
         glassdoor_scrapper = GlassDoorScrapper(self.run_id,self.data_path, 'training', self.driver,5)
-        df = glassdoor_scrapper.get_jobs(15,False,job_title)
+        df = glassdoor_scrapper.get_jobs(1000,False,job_title)
         print(df)
         df.to_csv('./apps/'+self.data_path+'/raw_training_data.csv', index=False, sep=',',line_terminator='\r\n')
         return df
