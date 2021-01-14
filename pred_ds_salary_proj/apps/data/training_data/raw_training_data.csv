@@ -1,0 +1,582 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+Data Scientist Architect,-1,"Now Hiring a Data Scientist Architect
+
+As an Data Scientist Architect, you will be applying new and innovative methods to address some of our most important intelligence problems. This is a remote position.
+Experience with the following skills:
+Python
+Pandas
+NumPy
+Scipy
+Scikit-learn
+Keras
+Tensorflow (+)
+Deep Neural Nets
+Autoencoder models (+)
+Matpotlib/Seaborn
+Azure Machine Learning Python SDK
+AML Model deployment and model monitoring
+Strong analytical and problem- solving skills
+Ability to work autonomously and collaboratively as part of a team to both teach and learn every day
+Continuously looking for opportunities to learn, build skills and share learning.
+Excellent written and verbal communication skills
+
+
+Profile of Success
+up to 10 years of relevant experience with Data Science and Artificial Intelligence and Machine Learning
+
+
+About AIS
+
+AIS, Dedicated to Our People
+
+AIS employees can spend their entire career at AIS doing challenging, rewarding work and reach their desired level of achievement and responsibility. We offer the opportunity to move up, without the obligation to move out of a position where one excels. We are committed to our employee's success; however, they define it.
+
+It's our dedication to our employees that inspired our leadership to invest in our future and become partially employee-owned through an Employee Stock Ownership Program (ESOP).
+
+Our employees are our greatest strength, and we do all that we can to serve them. We invest in technology as early adopters, allowing us to create transformative and innovative solutions for our customers while exposing our team to cutting edge technology.
+
+We hire outstanding individuals who are committed to curiosity, passionate about emerging technology, and who are excited to find innovative solutions for the biggest tech challenges facing international brands and government agencies today.
+
+We Invest in Individuals Committed to Innovation
+
+AIS is seeking professionals of a certain character and level of excellence. People that we can learn from and that we can help grow to achieve their personal career goals. We are looking for:
+Smart people with a passion for technology
+Strong technical capabilities with a consultancy mindset
+Close involvement with local technical communities
+A willingness to think outside of the box to provide innovative solutions to clients
+Ability to solve challenging technical business problems
+Self-directed professionals
+
+
+
+Our Core Values
+Client Success
+Continued Learning and Technical Excellence
+Strong Client Relationships
+Citizenship and Community
+
+
+
+AIS is an Equal Opportunity Employer
+
+Applied Information Sciences is an Equal Opportunity Employer and does not discriminate on the basis of race, national origin, religion, color, gender, sexual orientation, age, disability, protected veteran status or any other basis covered by law. Employment decisions are based solely on qualifications merit, and business need.",4.3,"Applied Information Sciences
+4.3",Maryland,-1,501 to 1000 Employees,1982,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),-1
+Principal Data Scientist,$104K - $170K (Glassdoor est.),"Working out of our Chevy Chase, MD/Washington DC office, GEICO's Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.
+As a Principal Data Scientist, you will work with a talented and diverse team of data scientists with responsibility to:
+Coordinate project teams of data scientists and supporting roles, acting as the primary point of contact in delivering end-to-end innovative, high-quality data solutions with measurable business value
+Build relationships with partner teams, frame and structure questions, as well as summarize and present key insights to both technical and non-technical audiences
+Collaborate with stakeholders to gather, consolidate, and validate business expertise throughout the project lifecycle
+Work with analysts to document requirements, assumptions, and methodology including validation, testing, and implementation strategies
+Coach, mentor, and guide data scientists to advance their career development in both technical and non-technical areas
+Facilitate regular peer reviews and conduct performance reviews
+Assist management with strategic efforts, portfolio management, and value delivery
+Assist management in the recruiting process in order to build a high-functioning Data Science team
+Apply project/team leadership and problem-solving skills to establish and promote best practices within the team
+Develop a high-level understanding of cutting-edge data science tools and techniques
+Expected Qualifications:
+Advanced degree in a quantitative discipline, such as statistics, data science, computer science, mathematics, engineering, physics, etc. Advanced degree or certification in analytics-related field strongly preferred
+5+ years of experience in a quantitative analyst and/or leadership role with 3+ years leading a team of quantitative analysts. Experience leading an Agile team preferred
+Demonstrated leadership competencies, including teambuilding, creative problem-solving, flexibility, and willingness to challenge the status quo
+Excellent communication, facilitation, and coaching skills in a business context and as it applies to team and project management
+Demonstrated experience in influencing business decisions and driving business value
+Working experience with analytical modeling tools such as R or Python, predictive modeling, machine learning, experimental design, and AB testing strongly preferred
+Completion of an analytical product critique may be required
+Highly Preferred Qualifications:
+Experience in Telematics, Internet of Things - IoT, and/or Sensor Data
+Note: The safety of our associates, both current and future, is GEICO’s highest priority. At this time, most of our associates are working remotely due to the current COVID-19 pandemic. Candidates who are selected for this position will be trained remotely and must be able to work from home in a designated work area. Once GEICO determines it is safe for associates to return to the office, candidates may be required to work in our Chevy Chase, MD office.
+Benefits:
+As a Principal Data Scientist, you’ll enjoy our Total Rewards Program* to help secure your financial future and preserve your health and well-being, including:
+Premier Medical, Dental and Vision Insurance with no waiting period**
+Paid Vacation, Sick and Parental Leave
+401(k) Plan with Profit Sharing
+Tuition Reimbursement
+Paid Training and Licensures
+Benefits may be different by location. Benefit eligibility requirements vary and may include length of service.
+EEO Statement:
+The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.
+GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.
+#LI-JW1",3.5,"GEICO
+3.5","Chevy Chase, MD",-1,10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),-1
+Research Laboratory Scientist,-1,"POSITION SUMMARY
+Performs supervised simple and complex molecular tests in the Research and Development (R&D) laboratory to optimize oncology-based assay processes; including sample preparation, workflow, automation and analyte detection to support OmniSeq’s molecular diagnostic testing business.
+PRIMARY DUTIES
+Technical lead for developing, optimizing, validating and performing advanced diagnostic laboratory tests (ADLT) using Next-generation Sequencing (NGS) platforms and orthogonal genomic based methodologies.
+Work collaboratively with cross-functional teams to understand project objectives, gather workflow requirements, design tests, troubleshoot issues, and implement solutions.
+Identifies, develops and carries out novel experiments in order to optimize the ADLTs for fast turnaround time, cost efficiency, scalability and eventual approval by regulatory agencies.
+Establishes expertise in the operation of instrumentation and techniques.
+Devise and execute training, where appropriate, to develop and elevate the technical skills within the team.
+Support testing as part of clinical trial assays and contract research agreements.
+Records and analyzes data to ensure QA/QC at each workflow step; ensures completeness and accuracy of data.
+Processes blood and tissue samples provided to the laboratory; as needed for various projects.
+Maintains strong relationships with instrument vendors and support specialists.
+Support any and all collaborative services; including pharma, industry and academia
+MINIMUM QUALIFICATION REQUIREMENTS
+Education and Experience
+1. Bachelor’s degree in Biological Sciences (i.e. Molecular Genetics, Biology, Biotechnology, Medical Technology) and the equivalent of two (2) years of full-time professional clinical or research experience in a laboratory.
+Preferred Qualifications
+1. Strong Molecular Biology background (NGS) and experience processing tumor samples.
+2. License to practice as a Clinical Laboratory Technologist in the State of New York; or eligibility for licensure as a Clinical Laboratory Technologist in the State of New York.
+3. Strong computer skills.
+Job Type: Full-time
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible spending account
+Health insurance
+Health savings account
+Paid time off
+Professional development assistance
+Referral program
+Vision insurance
+Schedule:
+Monday to Friday
+Company's website:
+https://www.omniseq.com/
+COVID-19 Precaution(s):
+Remote interview process
+Personal protective equipment provided or required
+Temperature screenings
+Social distancing guidelines in place
+Virtual meetings
+Sanitizing, disinfecting, or cleaning procedures in place",-1,"OmniSeq, Inc.","Buffalo, NY",-1,-1,-1,-1,-1,-1,-1,-1
+Certifying Scientist (mid-week start/weekends),-1,"SUMMARY: The Certifying Scientist performs clinical laboratory testing by applying standardized procedures, performing quality control and preventative maintenance, and interpreting results as to accuracy, acceptability and critical limits. Interacts with other staff members for training, quality control oversight and data analysis. Functions as a negative certifying scientist and positive certifying scientist.
+ESSENTIAL DUTIES:
+*
+*Must be willing to work flexible hours/Wed-Sat & Weekends, 2nd Shift 5:00pm-1:30am and/or 3rd shift 11:00pm-7:00am.
+Follows lab procedures for specimen handling and processing, reporting and maintaining records and exercising independent judgment when necessary
+Adheres to all lab quality control policies and documents all quality control activities
+Adheres to quality assurance protocols for validation of all confirmatory assays, reagents, calibrators and control material
+Maintains knowledge of LC-MS/MS operating principles
+Applies chromatographic rules governing the suitability and evaluation of the data
+Maintains knowledge of positive and negative sample requirements
+Reviews all technical data
+Reviews all immunoassay data associated with LC-MS/MS results
+Performs method validations for new instruments and analytes in response to increase in volumes and client requests
+Performs equipment maintenance and trouble-shooting as needed
+Remains current and follows established procedures for the environment of care and laboratory safety; maintains current on department based competencies, including all regulatory requirements.
+Understands and adheres to HIPPA regulations and requirements at all times
+Follows established safety standards and procedures and complies with legal regulations
+Cooperates in staffing and scheduling requirements to meet the needs of the department
+Assists other technical staff with analyzing lab results and provides immediate feedback
+Trains new hires to ensure lab procedures are followed
+Reports to work on time for all scheduled shifts and completes entire shift
+Perform other duties as assigned by Supervisor and Lab Director
+QUALIFICATIONS/REQUIREMENTS:
+Doctorate, Master’s or Bachelor’s degree in a Biological Science or related science from an accredited institution (preferred); an Associate’s degree in a Biological Science or related science is required. Ability to think critically and analyze lab data based on combination of experience and course study. Ability to exercise initiative and problem solving. Ability to communicate effectively orally and in writing.
+**Salary offer will be based on experience and education.
+PHYSICAL DEMANDS AND CONDITIONS:
+Clinic/Group Medical Practice environment with exposure to communicable disease or body fluids. While performing the duties of this position, the employee is regularly required to talk or hear. The employee frequently is required to use hands or finger, handle, or feel objects, tools or controls. The employee is occasionally required to stand; walk; sit; reach with hands and arms; climb or balance; and stoop, kneel, crouch, or crawl.
+The employee must occasionally lift and/or move up to 15 pounds. Specific vision abilities required by this position include close vision, distance vision, color vision, peripheral vision, and the ability to adjust focus.
+Job Types: Full-time, Contract
+Schedule:
+Monday to Friday
+Night shift
+Weekends
+Education:
+Associate (Required)
+Shifts:
+Evening (Preferred)
+Overnight (Preferred)
+Contract Length:
+Varies
+This Job Is Ideal for Someone Who Is:
+Dependable -- more reliable than spontaneous
+People-oriented -- enjoys interacting with people and working on group projects
+Adaptable/flexible -- enjoys doing work that requires frequent shifts in direction
+Detail-oriented -- would rather focus on the details of work than the bigger picture
+Autonomous/Independent -- enjoys working with little direction
+High stress tolerance -- thrives in a high-pressure environment
+Company's website:
+luxorscientific.org",-1,Luxor Scientific,"Greenville, SC",-1,-1,-1,-1,-1,-1,-1,-1
+SYSTEMS/DATA ENGINEER - ANALYTICS- INFORMATION SERVICES,$78K - $143K (Glassdoor est.),"Description:
+Systems Engineer will be responsible for creating and maintaining the analytical infrastructure. They are responsible for building and developing elegant reports and dashboards. Along with creating data sets, data flows, data models, and transforms for mining and modeling. Assembling large, complex sets of data that meet non-functional and functional business requirements. Excellent in analytical thinking for translating data into informative visuals and reports. Able to develop tabular and multidimensional models that are compatible with warehouse standards. Expertise in using advance level calculations on the data set. Able to implement row level security on data and have an understanding of application security layer models. Performs duties and responsibilities in a manner consistent with our mission and values.
+Principle Accountabilities: % Of Time Spent
+Power BI / Tableau development and administration. (35%)
+Building Analysis Services reporting models (20%)
+Developing visual reports, dashboards and KPI scorecards (20%)
+Connecting to data sources, importing data and transforming data for Business Intelligence (25%)
+Total: 100%
+Education:
+Bachelors Degree Required
+
+Experience:
+5 years of programming/development experience preferred.
+2 years of experience in Power BI and/or Tableau preferred.
+Experience with other data visualization tools and reporting software (SSRS, Cognos, Business Objects)
+Experience with mission-critical high-scale and distributed RDMS (Oracle, Microsoft SQL Server, and IBM DB2)
+Agile project management experience, including use of agile project management tools (i.e. JIRA, Git, etc.)
+Strong query writing skills in SQL and knowledge of DAX queries
+Must have excellent analytical and problem-solving skills
+Must have strong written, presentation, interpersonal, team and communication skills
+Should have knowledge and experience in prototyping, designing, and requirement analysis
+
+Reporting Relationships (Text Only): Job Relationships: Brief descriptions of the types of interactions that occur for this job. T akes direction from: Provides direction to: Supervised by: Manager, Technology Working Conditions:
+Employee is required to sit continuously and walk occasionally. Employee must lift/carry a light (1-20 lbs.) load occasionally. Employee may be required to lift over 100 lbs. with assistance. Employee is occasionally required to bend, squat, crawl, kneel, climb, lift waist to overhead. Employee is occasionally required to reach forward and reach overhead. For repetitive action, employee is required to use both hands for simple grasping and pushing/pulling. Employee is continuously exposed to electrical hazards and CRT terminal work. (Occasionally: 1-33%, Frequently: 34-66%, Continuously: 67-100%) The most significant of duties are included but this does not exclude occasional work assignments not mentioned or developmental duties.
+Mission/Values:
+MISSION
+Faithful to our Episcopal-Presbyterian heritage and its ministry of healing, St. Luke’s is dedicated to improving the health of the communities we serve.
+Using talents and resources responsibly, we provide high quality, safe care with compassion, professional excellence and respect for each other and those we serve.
+
+VISION
+As an independent healthcare network, we create healthy communities in the region through our commitment to high quality, safe and personalized services.
+
+CORE VALUES
+Human Dignity
+We accept and treat all persons as being created in the image of God.
+
+Compassion
+We respond with caring to the needs of others as if they were members of our family.
+
+Justice
+We honor each person’s rights and responsibilities in light of the common good.
+
+Excellence
+We set and strive to attain high standards of performance and continuous improvement.
+
+Stewardship
+We use our talents and resources wisely, with honesty and integrity.
+
+FACES - Friendly - Available - Caring - Efficient - Safe Communication Standards: Promotes and provides courteous and effective communication with internal and external customers.",3.4,"St. Luke's Hospital
+3.4","Chesterfield, MO",-1,1001 to 5000 Employees,1885,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,Less than $1 million (USD),-1
+"Senior Scientist, R&D",-1,"Position Summary: LGC Biosearch Technologies is a leading manufacturer of oligonucleotides, reagents, and custom life science solutions. The Senior Scientist position is responsible for participating in, and helping lead, the company's product research and development programs. This position requires an individual with strong problem solving skills, good laboratory technique, and the ability to design and execute complex experiments. This position requires a strong molecular biology background with a high level of expertise in PCR/qPCR, and the ability to learn new and emerging technologies that are oligo based. Familiarity with, or a willingness to learn the principles of oligonucleotide manufacture, from chemical components, to synthesis and purification is a must. The Senior Scientist will help decide future strategies of the R&D Department and the Company.
+Areas of Responsibility:
+This position requires a talented and self-managing individual to work closely with members of the R&D group to assist in development of new products and applications utilizing custom oligonucleotides.
+To perform this job successfully, an individual must be able to perform each essential function satisfactorily.
+Essential Functions:
+Perform standard molecular biology experiments, such as gel electrophoresis, PCR/qPCR, and NGS, to support projects in multiple application areas
+Conceive of new biological applications for custom oligos and LGC’s reagent portfolio
+Collaborate with organic chemists and oligo synthesis experts to create oligonucleotides in support of novel products and applications for our customers
+Assist in development of new methods for oligonucleotide synthesis and purification, to improve LGC’s operational capabilities
+Design and perform experiments, analyze and interpret data
+Serve as Project Leader for R&D Projects of small to moderate scope.
+Coordinate activities with other groups within the organization, depending on the needs of the assigned project
+Track progress against project timelines, generate regular status updates, and communicate progress and problems at internal team meetings and with external collaborators
+Conduct laboratory work in an efficient manner that ensures a safe working environment
+Other Skills and Abilities:
+Experience with a wide range of molecular biology techniques, as proven by a strong track record of laboratory-based research
+Experience with organic chemistry or oligonucleotide synthesis is a plus
+Strong understanding of qPCR, including different chemistries/probe types, their applications, strengths and weaknesses, design considerations, etc.
+Understanding of the use of oligos in molecular biology beyond PCR, and a willingness to self-educate on new and emerging applications
+Ability to troubleshoot experimental results
+Ability to keep a clear and concise notebook
+Ability to communicate effectively including communication of complex technical information to those with a non-technical background
+Excellent work ethic with the ability to work as part of a team
+Highly motivated, with the ability to self-manage
+CA1
+Qualifications
+Education/Experience:
+Ph.D. or equivalent experience in a field of relevant specialty, with 1-5+ years post-degree experience. Degrees in Biology, Organic Chemistry, Bioinformatics, Biochemistry, Genetics, or related fields are preferred.
+Computer Skills:
+Microsoft Office: Outlook, Excel, Word, and PowerPoint
+Relevant instrument software",5.0,"LGC Limited
+5.0","Petaluma, CA",-1,Unknown,-1,Company - Public,-1,-1,Less than $1 million (USD),-1
+Research Scientist,-1,"Job Description:
+Our Reston office is seeking talented candidates to develop mathematical models and algorithms, develop and demonstrate prototype software, and participate in operational analysis related to their technical work. Our Reston office employs mathematicians, physicists and computer scientists. We routinely apply stochastic processes, statistical inference, optimization and scheduling, models of random graphs and applied physics to develop the underlying theory and applications for our clients. The successful candidate will interact with customers, gather requirements and data, write and present briefings, and contribute to the development of Metron tools.
+
+Projects typically involve developing advanced algorithms implemented in a computer prototype system for our research & development customers. We work in small teams, led by Senior Scientists, who work closely with new employees. Project teams work together from the initial system concept, through software and algorithm design, to implementation and demonstration.
+We believe an employee's specific academic training is not as important as their innate ability and willingness to learn new areas of mathematics and work on difficult problems.
+Required Qualifications:
+MS or PhD in Computer Science, Mathematics, Applied Mathematics, Physics or Operations Research
+Some programming experience is preferred (C, C++, Java, Matlab, etc.)
+Mathematical, simulation, or physical modeling experience highly desired
+US Citizenship required, position will require background investigation to authorize access to classified information
+Position Location: Reston, VA
+
+All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or protected veteran status. Metron takes affirmative action in support of its policy to employ and advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities.
+
+VEVRAA Federal Contractor",3.0,"Metron, Inc.
+3.0","Reston, VA",-1,51 to 200 Employees,-1,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$25 to $50 million (USD),-1
+Data Scientist,$82K - $135K (Glassdoor est.),"Description
+Job Description:
+The Defense Group of Leidos has an opening for a Data Scientist supporting the Global Information Grid (GIG) Service Management-Operations (GSM-O) contract at Ft. Meade, MD.
+In this role, you will enable Command and Control (C2) of the Department of Defense Information Network (DODIN) by supporting the DISA Command Network in its application of big-data to realize the benefits of aggregation and correlation of historic and actualized data.
+This agency provides, operates, and assures command and control and information-sharing capabilities and a globally accessible enterprise information infrastructure in direct support to joint warfighters, national level leaders, and other mission and coalition partners across the full spectrum of military operations.
+Primary Responsibilities
+You will provide professional analyzing and assembly of data generated through the CN. This analysis and assembly should employ scientific methods, processes, algorithms and systems to extract knowledge and insights from both structured and unstructured data from multiple disconnected sources. Examples of the types of tasks to be performed as part of this analysis are below, this list may not be all inclusive:
+Build predictive models and perform predictive analytics
+Design experiments to solve sophisticated problems with code
+Develop machine learning algorithms
+Develop visualization strategies and capabilities to support mission and business objectives
+Formulate and answer open-ended questions based on mission and business problem sets to glean insights
+Interpret large and complex datasets and define appropriate applications to derive required outcomes
+Perform data analysis
+Perform unification of statistics
+Working in a team-based agile work environment
+Basic Qualifications
+Active TS/SCI security clearance
+Bachelor's Degree w/ 8 years of relevant experience or Master's Degree w/ 6 years of relevant experience.
+Experience developing environments that utilize Elastic Stack (ELK stack) technology.
+Experience working with and exploiting big data; distributed computing; predictive modelling; mathematics; statistics; machine learning; story-telling; and visualization
+Ability to extract meaning from and interpret data using a variety of tools and methods from statistics and machine learning
+Strong working knowledge of the various Microsoft technologies, particularly SharePoint
+Good oral and written communication skills
+Strong interpersonal, organizational and problem solving skills
+Preferred Qualifications
+Active data scientist/ analytics or equivalent certification from IBM, Microsoft, Cloudera, Hortonworks, SAS, etc.
+Knowledge of the DoD architecture and associated management systems
+ITIL V3
+Experience briefing Senior Leaders
+External Referral Bonus:
+Eligible
+Potential for Telework:
+No
+Clearance Level Required:
+Top Secret/SCI
+Travel:
+Yes, 10% of the time
+Scheduled Weekly Hours:
+40
+Shift:
+Day
+Requisition Category:
+Professional
+Job Family:
+Data Scientist
+Pay Range:
+
+Leidos is a Fortune 500® information technology, engineering, and science solutions and services leader working to solve the world’s toughest challenges in the defense, intelligence, homeland security, civil, and health markets. The company’s 38,000 employees support vital missions for government and commercial customers. Headquartered in Reston, Va., Leidos reported annual revenues of approximately $11.09 billion for the fiscal year ended January 3, 2020. For more information, visit www.Leidos.com.
+Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available here.
+Leidos will never ask you to provide payment-related information at any part of the employment application process. And Leidos will communicate with you only through emails that are sent from a Leidos.com email address. If you receive an email purporting to be from Leidos that asks for payment-related information or any other personal information, please report the email to spam.leidos@leidos.com.
+All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",3.8,"Leidos
+3.8","Fort Meade, MD",-1,10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),-1
+Data Scientist,$100K - $160K (Glassdoor est.),"Are you passionate about providing real impact to the country's toughest national security problems?
+
+Are you searching for engaging work with an employer that prioritizes innovation?
+
+If so, we may be looking for you to join our group at the Johns Hopkins University Applied Physics Laboratory (JHU/APL)!
+The Tactical Intelligence Systems Group of the Asymmetric Operations Sector is seeking a Data Scientist to develop cutting-edge solutions for challenges in data science and machine learning!
+As a Data Scientist, you will....
+Primarily apply knowledge in machine learning, artificial intelligence, data analysis, and software development to solve big data challenges
+Explore current academic research to maintain technical edge and enable innovation
+Collaborate with laboratory, for-profit contractors, and sponsor teams to address critical sponsor needs
+Effectively communicate results to both JHU/APL and sponsor leadership
+You'll meet our minimum qualifications for the position if you...
+Possess a B.S. or B.A. in Mathematics, Finance, Economics, Computer Science, Computer Engineering, or a related field
+Are experienced with machine learning or deep learning and Python
+Can be successfull working in a team environment
+Possess excellent verbal and written communication skills
+Have strong problem solving and organizations skills and are able to determine priorities and adjust to evolving project and sponsor needs
+Are able to obtain Secret level security clearance. If selected, you will be subject to a government security clearance investigation and must meet the requirements for access to classified information. Eligibility requirements include U.S. citizenship
+You'll go above and beyond our minimum qualifications if you...
+Possess a M.S. or M.A. in Mathematics, Computer Science, Computer Engineering, Electrical Engineering, Information Science, or related field
+Have a minimum of 4 years of experience with machine learning or deep learning and statistical analysis; active security clearance
+Possess an active secret (or higher) clearance
+Why work at APL?
+
+The Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation's most critical defense, security, space and science challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.
+
+At APL, we celebrate our differences and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL's campus is located in the Baltimore-Washington metro area. Learn more about our career opportunities atwww.jhuapl.edu/careers.",4.7,"Johns Hopkins Applied Physics Laboratory (APL)
+4.7","Laurel, MD",-1,5001 to 10000 Employees,1942,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),-1
+Data Scientist Intern,-1,"More About Silicon Labs:
+
+We are Silicon Labs. We are the leading provider of silicon, software and solutions for a smarter, more connected world.
+
+We hire the most innovative talent in the world to solve the industry’s toughest problems, providing our customers with significant advantages in performance, energy savings, connectivity and design simplicity. Silicon Labs’ software and mixed signal engineering teams create solutions for customers in diverse markets including theInternet of Things, (IoT), internet infrastructure, TV tuners, as well as automotive and consumer radios. Our solutions arein products from the market leadersin home automation, electric vehicles, green technology, smart TVsand home voice control automation. We take pride in our products and in our people, and that’s one of the many reasons we continue to be awardedMost Respected Public Semiconductor Company by the Global Semiconductor Alliance.
+
+As a Silicon Labs Data ScienceIntern, you will help develop insights, strategy, and data visualizations for marketing the industry’s leading products in IoT and Infrastructure and Automotive (I&A) all while being mentored and closely guided by the best operations experts who have a vested interest in your success. And don’t worry, you’ll still have plenty of opportunities to learn, network, and develop new skills through our social events, development lectures, and volunteer opportunities.
+
+Excited? See what it’s like to be a part of the Silicon Labs Team
+
+bit.ly/SiliconLabsInterns
+
+bit.ly/WomenatSilabs
+
+bit.ly/WhySilabsInternship
+
+What You’ll Do:
+
+Projects are specifically tailored to each intern, ensuring a meaningful contribution to both your skillset and Silicon Labs. Here are just a few of the challenges you might get to tackle:
+Develop and implement databases, data collection systems, data analytics visualizations and other strategies that optimize statistical efficiency and quality.
+Collaborate with our Marketing and IT business intelligence team to drive analytics, give updates to the business, and gain a deeper understanding of our development process.
+Understand our tool integrations that bring data into a central location for analysis and help optimize.
+Work on ad-hoc analysis of customer engagement, buyer’s journey’s, and campaigns to provide deeper insights.
+Learn more about the I&A (Timing, Isolation, Power) products and IoT (Wireless, MCU,Sensors) products you’ll have exposure to.
+
+Who You Are:
+
+You are an innovator, builder, and tinkerer. You have a curious mind and a drive to succeed. You want to work with a global team of technology enthusiasts and design pioneers. Here’s what you need:
+Completion of 2+ years of study
+Enrollment in BS/MS Information Systems, Marketing, Computer Science, or Statistics
+Any coursework or internship experience in the follow areas will be considered a plus:
+Experience with Microsoft Power BI or Tableau
+Familiarity with Mark-Ops tools, Adobe Analytics, Marketo, Salesforce
+Interaction with data sources and working with data lakes
+Knowledgeable use of Excel and Pivot Tables for analysis
+What’s in a World-Class Internship?
+
+Apply what you’ve learned in school to build technology that solves some of the planet’s most significant challenges. You will join a community of fellow interns and alumni who engage and empower your excellence. Take it from our previous interns:
+
+""I enjoyed my internship because of the projects I worked on, my manager and fellow interns, and the company culture. These 3 aspects all contributed to a well-rounded internship experience, and I was excited to show up to work every morning!"" - 2018 Marketing Intern
+
+“I learned so much about technical marketing and the skills needed to be successful. I greatly enjoyed working in a positive, relaxed, yet professional environment full of extremely smart people. I loved working on a small team and immersing myself into the team.” – 2017 Marketing Intern
+
+Curious for more feedback? Check out our Glassdoor (bit.ly/SilabsGlassdoor)
+
+bit.ly/SilabsURàDiscover why we attract the best and brightest!
+
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",4.5,"Silicon Labs
+4.5","Austin, TX",-1,1001 to 5000 Employees,1996,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$500 million to $1 billion (USD),-1
+Principal Scientist - Assay Development,-1,"Principle Scientist - Assay Development
+Company Description
+Personalized immunotherapies are the future of the fight against cancer, and IsoPlexis (www.isoplexis.com) is Making the Difference in enabling the lofty goal of employing immunotherapies to combat our toughest diseases. Our integrated systems, named #1 Innovation by Scientist Magazine & World-Leading Design by Red Dot, are changing cancer research by connecting biological readouts to what is actually happening in patients. Our game changing hardware technologies, originally from Cal Tech and Yale, combined with our next generation software and data visualizations, are powered by our amazing R&D team and used throughout the world. We work with a growing list of leading researchers who are publishing findings that connect our readouts to what is truly happening in patients, and that excites & drives all of us to do more! If you like working at the intersection of biological sciences and healthcare, and you enjoy intellectually challenging yet fulfilling projects, give us a call. Our fast growing, 200+ person team has a sense of integrity, energy, and urgency to ‘make things happen’ in our collective careers and in the broader world, and we look forward to talking.
+Responsibilities
+Serve as principle scientist to lead new assay development for a groundbreaking single-cell multi-omics project, inspired by the Nature Method of 2019
+Develop product spec sheet, budget plan, timeline, and milestones
+Work closely with product management and marketing to prioritize resources
+Write protocols, development procedures, and maintain accurate records
+Keep up-to-date with current best practices and emerging methods in the field of single-cell proteomics and genomics
+Skills/Qualifications
+M.S. or Ph.D. in molecular biology, biochemistry, genetics, microbiology, analytical chemistry, or related field.
+4+ (M.S.) or 2+ (Ph.D.) years of relevant biotechnology or pharmaceutical industry experience
+Extensive experience with NGS based single-cell or bulk genomic assay development and validation such as gene expression, TCR-seq, ATAC-seq, CRISPR screening.
+Significant experience troubleshooting molecular biology-based assays.
+Experience on clinical proved assays highly desired.
+Proven ability to write SOPs and train others to successfully perform the work.
+Excellent communication skills with the following: interdepartmental (mechanical, electrical, software, system engineers), cross-functional (Operations, Marketing).
+Ability to work well in a cross-functional team environment and support multiple projects as needed.
+Possesses strong communication skills, with the ability to present complex scientific ideas to clinical and scientific audiences.
+Commitment to quality, attention to detail, and team player
+Ability to handle detail, multiple tasks, and occasionally short-notice deadlines
+ISOPLEXIS is only considering applicants who have valid authorization to work in the U.S., in this position, for the Company. ISOPLEXIS does not sponsor employment-based visas for this position
+Job Type: Full-time
+Required education:
+M.S. or Ph.D.
+Job Type: Full-time
+Experience:
+NGS assay development: 2 years minimum
+Job Type: Full-time
+Pay: $80,000.00 - $90,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Life insurance
+Paid time off
+Vision insurance
+Schedule:
+Monday to Friday
+Ability to Commute/Relocate:
+Branford, CT 06405 (Preferred)
+Education:
+Master's (Required)
+Experience:
+NGS assay development: 2 years (Required)
+Company's website:
+www.isoplexis.com",3.7,"IsoPlexis
+3.7","Branford, CT",-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+FCC Data Scientist,$73K - $121K (Glassdoor est.),"Summary: The FCC Analytics group is responsible for the development and management of the BSA/AML, Fraud and Quality Control analytics functions. The group tunes the financial crimes models dedicated to the detection of suspicious activity and fraudulent transactions as well as those designed to risk rate customers and screen against OFAC designated lists. Additionally, the group manages application related implementations, maintenance and enhancements and the development of reporting and visual analytics used for investigations, KPI tracking, quarterly reporting and annual risk assessments.
+
+The primary purpose of this position is to assist with the management of the Fraud and BSA/AML models related to transaction monitoring, customer risk rating, OFAC fuzzy logic filtering, and transactional fraud mitigation strategies. The individual that fulfills this position must understand the general dynamics of model risk management as set forth by OCC guidelines. Furthermore, the candidate must also have experience with SQL, quantitative stat based analytics (such as standard deviation, percentile distributions, k-means, clustering, etc.), model forecasting and reporting analytics (including visual and flowchart modeling) amongst other skill sets around management of information systems. Requires basic commercial awareness.
+ESSENTIAL DUTIES AND RESPONSIBILITIES: While other duties and special projects may be assigned, the primary duties and responsibilities include the following:
+Conduct assessments of models and provide reports detailing the current state of data feeds, rule output at current settings, and alert outputs at alternative settings.
+Utilize Oracle SQL to the extent of simulating model output.
+Identify potential logic deficiencies in model outputs through cross validation of external analyses
+Assist with the identification, evaluation, and development of controls to mitigate FCC risk and operational impacts.
+Research, develop, prototype and test new models and their related inputs.
+Assist with annual FCC model tuning and optimization efforts in line with regulatory expectations to meet false-positive and detection rate criteria; performs quantitative analysis on the alert output of each tuning cycle (able to prepare reports detailing forecast results).
+Perform model management reviews for the ongoing assessment of model suitability against emerging risk.
+Assist with data integrity and validation testing on FCC projects including software implementations, operational enhancements related to efficiency gains, and other special projects as needed including the coordination of software updates in collaboration with the Bank's IT Department and or Project Management Office.
+Support manager with resolving of open issues and/or defects involving applications used by the FCC Department including the identification of issues, tracking, escalation, testing, and resolution.
+Maintain business definitions in the form of a data dictionary for all department managed models.
+Prepare reports in a manner that is clear and comprehensible to FCC supervisors/managers, internal auditors and regulatory examiners.
+Communicate production issues with key stakeholders such as business lines, FCC management team, and the IT Department.
+Create documentation and provide technical training to business users as needed (this includes training post model tuning deployments and on new enhancements).
+If necessary, effectively communicate with the business lines in order to obtain the necessary information and documentation to complete model improvements.
+Handle a large workload with the ability to complete the tasks correctly and efficiently within the designated timeframes exercising discretion in setting priorities.
+Communicate effectively to different audiences, including both business and technical parties.
+Possess a general understanding of banking with respect to BSA/AML and Fraud risks.
+Perform any other assignments as directed by manager.
+EDUCATION and/or EXPERIENCE
+Bachelor's degree in Computer Science, Management Information Systems or related field.
+At least 3 years working with data modeling, software implementation, enhanced reporting analytics or related experience preferably with a financial institution.
+Advanced experience with data mining/analytical tools such as R and Python
+Strong knowledge of Structured Query Language (SQL), Oracle programming language, data mining techniques, and Business Intelligence Tools
+Strong database skills, including working with advanced data sets, pivot tables, advanced database and statistical functions and methods
+Experience visualizing data using tools such as Tableau
+Experience with developing and implementing Fraud and BSA/AML risk strategies in decision engines, detection tools and onboarding platforms.",3.0,"BankUnited
+3.0","Miami Lakes, FL",-1,1001 to 5000 Employees,2009,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),-1
+Research Scientist,-1,"Responsibilities
+Independently develop and execute in vitro studies.
+Collect, analyze, and interpret experimental data.
+Synthesize and discuss study results and implications during internal meetings.
+Contribute to strategic scientific decisions.
+Requirements
+PhD in Life Sciences with hands-on experience.
+Required experience: cell culture, assay development, and general cellular, molecular and biochemical techniques (e.g. ICC, Western Blotting, PCR, Flow cytometry, imaging, microscopy).
+Preferred experience: IHC, Cell therapy, iPSCs, animal models.
+Demonstrated ability to work collaboratively in a fast-paced environment.
+Troubleshooting, organization, and planning skills.
+Excellent written and oral communication skills.
+Compensation
+Competitive salary.
+Health care benefits.
+Eligible for stock options.
+About Repair Biotechnologies
+Repair Biotechnologies is a preclinical biotechnology company focused on developing drugs for cholesterol and aging-related diseases. Our first-in-class Cholesterol Degrading Platform (CDP) technology is aimed at reversing atherosclerosis, familial hypercholesterolemias, and other conditions in which excess or modified cholesterol drives pathology.
+Job Type: Full-time
+Benefits:
+Health insurance
+Paid time off
+Schedule:
+8 hour shift
+Work Location:
+One location
+This Job Is Ideal for Someone Who Is:
+Dependable -- more reliable than spontaneous
+Detail-oriented -- would rather focus on the details of work than the bigger picture
+Achievement-oriented -- enjoys taking on challenges, even if they might fail
+Company's website:
+www.repairbiotechnologies.com
+Work Remotely:
+No",-1,Repair Biotechnologies,"Syracuse, NY",-1,-1,-1,-1,-1,-1,-1,-1
+Biosurveillance Scientist,$56K - $123K (Glassdoor est.),"Responsibilities:
+Noblis is positioned to provide novel technology and operational solutions to key decision makers in the CWMD office as it transitions its efforts to include more threat anticipation and threat identification support to DHS components using information obtained from its distributed sensor network capabilities and other sources. Threat understanding at its earliest point possible is critical to driving counter activities employed by DHS components and future CWMD research and development and acquisition activities.
+
+If you are interested in this exciting opportunity to help develop and advance DHS new approach to counter CWMD, we are actively seeking to identify personnel to join our team of talented professionals who possess the experience, vision, commitment and integrity to successfully support the strategic goals of DHS CWMD by providing support in the following areas
+
+Conducts operational scientific and technical analysis in support of National biosurveillance.
+Supports the development of a variety of analytic biosurveillance decision support products that meet National decision makers’ and stakeholders’ requirements.
+More broadly, performs the functions of a technical expert in the relevant scientific field in support of major biosurveillance programs or system development activities.
+Applies scientific expertise in defining and resolving system issues, performing analysis, and developing plans and requirements for further analysis.
+Researches, analyzes, and computes mathematical, physical and scientific data for integration into, and prepares analysis, evaluations, and recommendations for inclusion within CWMD biosurveillance products in support of federal personnel.
+Client Engagement: · Support and lead evolving business development efforts by applying technical and functional expertise to develop business solutions. · Lead proposal sections for small or limited competition proposals and actively participate in teaming strategy discussions Qualifications:
+Qualifications:
+BS degree in a scientific, engineering, medical, veterinary, or public health field. Certain personnel will require MS.
+Has 3-10 years’ experience, or a Masters Degree and 2 years experience
+Qualifying experience must be in a scientific, engineering, medical, veterinary, or public health field such as biology, chemistry, biochemistry, bacteriology, virology, epidemiology, toxicology, immunology, environmental science or engineering, physics, mathematics, geology, or other related discipline.
+An active Secret clearance is required.
+Desired:
+Preferred Specialized Experience: 2 years of experience providing scientific or technical support to major programs or system development efforts related to biosurveillance.
+Overview:
+Noblis and our wholly owned subsidiary, Noblis ESI, tackle the nation's toughest problems and apply advanced solutions to our clients' most critical missions. We bring the best of scientific thought, management and engineering expertise together in an environment of independence and objectivity to deliver enduring impact on federal missions. Noblis works with a wide range of government clients in the defense, intelligence and federal civil sectors. Learn more at Noblis -About Us
+
+Why work at a Noblis company?
+Our employees find greater meaning in their work and balance the other things in life that matter to them. Our people are our greatest asset. They are exceptionally skilled, knowledgeable, team-oriented, and mission-driven individuals who want to do work that matters and benefits the public. Noblis has won numerous workplace awards. Noblis maintains a drug-free workplace.
+
+Noblis is an Equal Opportunity Employer. Employment decisions are made without regard to race (as well as because of or on the basis of traits historically associated with race, including hair texture, hair type, and protective hairstyles such as braids, locks, and twists), color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, pregnancy, childbirth, lactation and related medical conditions, genetic factors, military/veteran status, or other characteristics protected by law.",4.2,"Noblis
+4.2","Washington, DC",-1,1001 to 5000 Employees,1996,Nonprofit Organization,Consulting,Business Services,$100 to $500 million (USD),-1
+HR Specialist (Data Scientist) - 1.15.2021,$62K - $137K (Glassdoor est.),"Duties
+Summary
+As our nation navigates the COVID-19 pandemic, CBP is committed to delivering our mission to safeguard America's borders and enable legitimate trade and travel. Staffing mission critical positions remains a high priority. Be reassured that CBP is still hiring, despite potential hiring process step delays due to restrictions to in-person activities.
+Responsibilities
+Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Enterprise Services, Office of Human Resources Management, Talent Management Directorate, National Recruitment Division, located in Washington, DC.
+Joining the Customs and Border Protection, Office of Human Resources Management will allow you to use your expertise in serving as an expert analyst or advisor to executive management on organization change and related issues. This position starts at a salary of $103,690.00 (GS-13, Step 1) to $134,798.00 (GS-13, Step 10) with promotion potential to $134,798.00 (GS-13 Step 10). Apply for this exciting opportunity to strengthen the Department's ability to perform homeland security functions by analyzing and refining existing work methods and developing new methods and procedures.
+In this Human Resources Specialist (Data Scientist) position you will be responsible for serving as the expert Management and Program Analyst who works closely with the TMD and NRDs leadership. Typical work assignments include:
+Planning, developing, coordinating, and participating in agency research programs and projects, while performing scientific work that applies data management theories, techniques, and methods for gathering, studying, analyzing, interpreting, and reporting of recruitment, hiring and workforce data
+Serving as an expert on data creation and utilization principles pertaining to Human Resources Management while preparing a variety of analytical reports, memoranda, and technical documents on immigration issues
+Initiating investigations of administrative data based on observations in program assignment areas.
+Planning, researching, and implementing the full scope of investigative projects requiring application of workforce management data (creation and application).
+Performing return on investment, cost to hire and yield conversion analysis and develops automated models for subsequent use
+Travel Required
+Occasional travel - You may be expected to travel for this position.
+Job Type: Full-time
+Pay: $103,690.00 - $134,798.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance",3.7,"U.S. Customs and Border Protection
+3.7","Washington, DC",-1,10000+ Employees,1927,Government,Federal Agencies,Government,Less than $1 million (USD),-1
