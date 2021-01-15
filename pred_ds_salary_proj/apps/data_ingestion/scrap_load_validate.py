@@ -16,3 +16,11 @@ class ScrapeLoadValidate:
         print(df)
         df.to_csv('./apps/'+self.data_path+'/raw_training_data.csv', index=False, sep=',',line_terminator='\r\n')
         return df
+    
+    def clean_data(self):
+        data = pd.read_csv('./apps/'+self.data_path+'/raw_training_data.csv')
+        #Salary parsing
+        #Company name text only
+        #State field
+        #age of company
+        #parsing the job field (skills)
